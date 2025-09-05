@@ -7,15 +7,6 @@
 </p>
 
 ---
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdalrahman khaled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdalrahman khaled" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abdelrahman khaled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdelrahman khaled" height="30" width="40" /></a>
-</p>
-
----
-
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,linux,python,cpp,git,html,css,mysql,sqlite" />
