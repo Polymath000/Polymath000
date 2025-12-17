@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdelrahman+Khaled;A+Flutter+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdelrahman+Khaled;Flutter+Developer+!+!" alt="Typing SVG" />
 </h1>
 
 <p align="left"> 
@@ -9,7 +9,7 @@
 ---
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,linux,python,cpp,git,html,css,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,linux,python,cpp,git,html,css,mysql,javascript,bash" />
 </p>
 
 ---
