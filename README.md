@@ -9,7 +9,7 @@
 ---
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,linux,python,cpp,git,html,css,mysql,javascript,bash" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,linux,python,cpp,git,html,css,mysql,javascript,bash,qt,figma,docker" />
 </p>
 
 ---
