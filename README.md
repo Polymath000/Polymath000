@@ -14,14 +14,6 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polymath000&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=polymath000&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
-
 <h3 align="center">🐍 Contribution Graph Animation</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
