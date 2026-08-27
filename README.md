@@ -20,8 +20,6 @@ I am a software developer building smooth, fast, and beautiful mobile applicatio
 * 🚀 **Focus:** Creating highly scalable mobile apps using **Flutter** and **Dart**.
 * 🛠️ **Architecture:** I write clean code using **Clean Architecture**, **SOLID principles**, and **Bloc/Cubit**.
 * 💻 **Environment:** I develop and test my projects on **Linux**.
-* ✨ **Current Projects:** Building awesome tools like **QuickNotion** and **MindFeed**.
-
 ---
 
 ### 🛠️ Languages & Tools
@@ -36,15 +34,6 @@ I am a software developer building smooth, fast, and beautiful mobile applicatio
   <img src="https://skillicons.dev/icons?i=linux,git,docker,qt,figma" alt="Tools and Environment" />
 </p>
 
----
-
-### 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=polymath000&theme=transparent&hide_border=true&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🐍 Contribution Animation
 
