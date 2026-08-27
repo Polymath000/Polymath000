@@ -1,8 +1,5 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Abdelrahman+Khaled+!;Mobile+App+Developer+%F0%9F%93%B1;Flutter+Enthusiast+%F0%9F%92%99;Clean+Code+Advocate+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
-  </h1>
-  <img src="https://komarev.com/ghpvc/?username=polymath000&label=Profile%20views&color=0e75b6&style=flat" alt="polymath000" />
+  <img src="./assets/abdelrahman_khaled_github_banner.svg" alt="GitHub Banner" width="100%" />
 </div>
 
 <br>
@@ -11,16 +8,18 @@
   <img src="./assets/1.gif" alt="Coding Animation" width="800" />
 </div>
 
+<br>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/polymath00">
+  <a href="https://www.linkedin.com/in/polymath00" target="_blank">
     <img src="./assets/LinkdIn.png" alt="LinkedIn" height="35" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:abdokhaleddev@gmail.com">
+  <a href="mailto:abdokhaleddev@gmail.com" target="_blank">
     <img src="./assets/Gmail_icon.webp" alt="Gmail" height="35" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@Polymath10">
+  <a href="https://www.youtube.com/@Polymath10" target="_blank">
     <img src="./assets/Youtube_logo.png" alt="YouTube" height="35" />
   </a>
 </div>
