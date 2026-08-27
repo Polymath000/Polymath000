@@ -11,6 +11,20 @@
   <img src="./assets/1.gif" alt="Coding Animation" width="800" />
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/polymath00">
+    <img src="./assets/LinkdIn.png" alt="LinkedIn" height="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abdokhaleddev@gmail.com">
+    <img src="./assets/Gmail_icon.webp" alt="Gmail" height="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Polymath10">
+    <img src="./assets/Youtube_logo.png" alt="YouTube" height="35" />
+  </a>
+</div>
+
 ---
 
 ### 📱 About Me
