@@ -63,7 +63,7 @@ I am a software developer building smooth, fast, and beautiful mobile applicatio
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mysql" alt="Mobile and Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,supabase" alt="Mobile and Backend Skills" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript,bash,html,css" alt="Programming Languages" />
   <br><br>
