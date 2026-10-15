@@ -1,90 +1,162 @@
-<div align="center">
-  <img src="./assets/abdelrahman_khaled_github_banner.svg" alt="GitHub Banner" width="100%" />
-</div>
+ <div align="center">
 
-<br>
+  <img src="./assets/abdelrahman_khaled_github_banner.svg" alt="Abdelrahman Khaled" width="100%" />
 
-<div align="center">
-  <img src="./assets/1.gif" alt="Coding Animation" width="800" />
-</div>
+  <h2>Abdelrahman Khaled</h2>
 
-<br>
+  <p><b>Muslim · Flutter Developer · Linux Enthusiast · Reader</b></p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/polymath00" target="_blank">
-    <img src="./assets/LinkdIn.png" alt="LinkedIn" height="35" />
+  <p><i>Faith keeps me grounded. Books keep me curious.<br/>Linux gives me freedom. Code lets me create.</i></p>
+
+  <img src="https://img.shields.io/badge/FAITH-Muslim-238636?style=for-the-badge" alt="Faith: Muslim" />
+  <img src="https://img.shields.io/badge/CRAFT-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Craft: Flutter" />
+  <img src="https://img.shields.io/badge/SYSTEM-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="System: Linux" />
+  <img src="https://img.shields.io/badge/HABIT-Reading-B7791F?style=for-the-badge" alt="Habit: Reading" />
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/polymath00">
+    <img src="./assets/LinkdIn.png" alt="LinkedIn" height="32"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:abdokhaleddev@gmail.com" target="_blank">
-    <img src="./assets/Gmail_icon.webp" alt="Gmail" height="35" />
+  <a href="mailto:abdokhaleddev@gmail.com">
+    <img src="./assets/Gmail_icon.webp" alt="Email" height="32"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@Polymath10" target="_blank">
-    <img src="./assets/Youtube_logo.png" alt="YouTube" height="35" />
+  <a href="https://www.youtube.com/@Polymath10">
+    <img src="./assets/Youtube_logo.png" alt="YouTube" height="32"/>
   </a>
+
 </div>
 
-<br>
-<hr>
+---
 
-### 📱 About Me
+## 🧭 A Little About Me
 
-I am a software developer building smooth, fast, and beautiful mobile applications. 
+I'm Abdelrahman, a Muslim, a Flutter developer, a Linux user, and a reader.
 
-* 🚀 **Focus:** Creating highly scalable mobile apps using **Flutter** and **Dart**.
-* 🛠️ **Architecture:** I write clean code using **Clean Architecture**, **SOLID principles**, and **Bloc/Cubit**.
-* 💻 **Environment:** I develop and test my projects on **Linux**.
+I enjoy building mobile applications, exploring how systems work, and learning from books and ideas beyond technology.
 
-<br>
-<hr>
+I'm interested in more than making things work. I want to understand **why they work, how they can improve, and how I can use what I learn to build something useful.**
 
-### 📂 Featured Projects
+## 🌿 Four Parts of My World
 
-#### 🔹 [Page.ui](https://github.com/page-ui/Page.ui_Frontend-Part)
-`Flutter` `GraphQL` `WebSocket` `Docker`
-* AI-powered web application built to generate dynamic user interfaces through AI-driven chat. Designed with accuracy for creative professionals and developers, it bridges the gap between natural language prompts and functional UI components.
-* Implemented a responsive Flutter web application using Clean Architecture and BLoC/Cubit, with GraphQL queries for API communication and WebSockets for handling real-time AI responses. Implemented secure authentication using JWT tokens, media uploads via URLs, and live HTML iframe previews for the generated interfaces.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🕌 Faith</h3>
+      Islam is part of who I am. I aim to keep my intentions sincere, continue learning, and let my values guide my actions.
+    </td>
+    <td width="50%">
+      <h3>📱 Code</h3>
+      Flutter and Dart are my main tools for turning ideas into useful mobile applications. I enjoy clean architecture and solving real problems.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🐧 Linux</h3>
+      My development home. I enjoy exploring the terminal, understanding my system, and having control over my tools.
+    </td>
+    <td width="50%">
+      <h3>📚 Reading</h3>
+      A way to explore new ideas, challenge my thinking, and keep learning outside the world of programming.
+    </td>
+  </tr>
+</table>
 
-#### 🔹 [PageBridge](https://github.com/Polymath000/PageBridge)
-`Flutter` `Notion-API` `OAuth2`
-* A Flutter application that helps users quickly capture ideas and save them directly to their Notion workspace by selecting a database and creating pages through a property-aware form.
-* Developed the Flutter application using Clean Architecture, Cubit/Bloc, and GetIt, with Notion OAuth authentication and secure token management. Implemented paginated database search and a schema-driven form system that dynamically maps Notion properties to input fields, including relations, multi-select, status, dates, and rich text.
-
-#### 🔹 [InsightMed](https://github.com/Polymath000/InsightMed)
-`Flutter` `Rest-API` `MVVM`
-* A mobile application integrated with the Notion API using OAuth, featuring dynamic form generation and paginated search to streamline database management and data entry. InsightMed is a Flutter mobile app that streamlines the patient and clinician workflow around appointments, clinical notes, and AI-assisted chest X-ray reviews. It integrates image submission with vitals and symptoms, then surfaces AI status, confidence, and summary insights to support clinical review.
-* Implemented role-based authentication and navigation, REST API integration with Dio, BLoC-based state management, and secure session persistence. Built multipart file upload handling, structured request and response models, asynchronous API flows, and state management for AI analysis results and clinician review data.
-
-<br>
-<hr>
-
-### 🛠️ Languages & Tools
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,supabase" alt="Mobile and Backend Skills" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,bash,html,css" alt="Programming Languages" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,qt,figma" alt="Tools and Environment" />
-</p>
-
-<br>
-<hr>
-
-### 🐍 Contribution Graph
-
-<br>
+## 💻 Inside My Workshop
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,flutter,dart,git,docker,supabase,firebase,python" alt="Linux and development tools"/>
 </p>
 
-<br>
-<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-238636?style=flat-square" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/State-BLoC%20%2F%20Cubit-7C3AED?style=flat-square" alt="BLoC and Cubit"/>
+  <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Workflow-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+```text
+polymath@linux:~$ whoami
+Flutter developer | Linux enthusiast | Reader
+
+polymath@linux:~$ cat philosophy.txt
+Understand before building.
+Keep things simple.
+Learn something every day.
+Build things that matter.
+```
+
+## 🚀 Things I've Built
+
+<p>
+  <a href="https://github.com/Polymath000/AcademIQ">
+    <img src="https://img.shields.io/badge/AcademIQ-Academic%20Progress-7C3AED?style=for-the-badge" alt="AcademIQ"/>
+  </a>
+  <br/>
+  An offline-first GPA tracker with academic data management, cloud synchronization, and AI-powered academic advice.
+</p>
+
+<p>
+  <a href="https://github.com/page-ui/Page.ui_Frontend-Part">
+    <img src="https://img.shields.io/badge/Page.ui-AI%20%2B%20UI%20Generation-0EA5E9?style=for-the-badge" alt="Page.ui"/>
+  </a>
+  <br/>
+  A Flutter web application that turns natural-language prompts into interfaces with real-time responses and live previews.
+</p>
+
+<p>
+  <a href="https://github.com/Polymath000/PageBridge">
+    <img src="https://img.shields.io/badge/PageBridge-Flutter%20%2B%20Notion-238636?style=for-the-badge" alt="PageBridge"/>
+  </a>
+  <br/>
+  A mobile application for capturing ideas and saving them directly to Notion through dynamic forms and OAuth authentication.
+</p>
+
+<p>
+  <a href="https://github.com/Polymath000/InsightMed">
+    <img src="https://img.shields.io/badge/InsightMed-Healthcare%20%2B%20AI-DB2777?style=for-the-badge" alt="InsightMed"/>
+  </a>
+  <br/>
+  A healthcare application supporting appointments, clinical notes, and AI-assisted chest X-ray reviews.
+</p>
+
+<p>
+  <a href="https://github.com/Polymath000/Nazm">
+    <img src="https://img.shields.io/badge/Nazm-Tasks%20%2B%20Calendar-D97706?style=for-the-badge" alt="Nazm"/>
+  </a>
+  <br/>
+  An offline-first application for organizing tasks and daily schedules.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Polymath000?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-All%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+  </a>
+</p>
+
+## 📖 Currently, Always Learning
+
+I'm interested in learning about software design, mobile development, Linux, and ideas from books that help me see the world differently.
+
+I don't believe learning should stop when a project works or when a new technology becomes familiar. There is always something deeper to understand.
+
+**Learn with purpose. Build with care. Keep turning pages.**
+
+---
 
 <div align="center">
-  <p>Made with ❤️ by <b>Abdelrahman Khaled</b></p>
-  <img src="https://komarev.com/ghpvc/?username=polymath000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph animation" width="100%"/>
+
+  <br/><br/>
+
+  <i>May the work be useful, the intentions be sincere, and the learning never stop.</i>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=polymath000&label=PROFILE%20VISITS&color=238636&style=for-the-badge" alt="Profile visits"/>
+
 </div>
