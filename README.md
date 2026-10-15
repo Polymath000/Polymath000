@@ -95,7 +95,6 @@ Keep things simple.
 Learn something every day.
 Build things that matter.
 ```
----
 ## 🚀 Featured Projects
 
 \<p align="center">   \<img     src="[https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2200&amp;pause=800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Things+I%27ve+Built;Ideas+Turned+Into+Code;Learning+Through+Projects](https://readme-typing-svg.demolab.com/?font=Fira+Code\&amp;weight=600\&amp;size=24\&amp;duration=2200\&amp;pause=800\&amp;color=58A6FF\&amp;center=true\&amp;vCenter=true\&amp;width=600\&amp;lines=Things+I%27ve+Built;Ideas+Turned+Into+Code;Learning+Through+Projects)"     alt="Animated projects heading"   /> \</p>
