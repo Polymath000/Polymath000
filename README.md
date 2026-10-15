@@ -97,18 +97,21 @@ Build things that matter.
 ```
 
 ---
-
 ## 🚀 Featured Projects
 
-### 🎓 [AcademIQ](https://github.com/Polymath000/AcademIQ)
+\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=600&lines=Things+I](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&duration=2500\&pause=700\&color=58A6FF\&center=true\&vCenter=true\&width=600\&lines=Things+I)'ve+Built;Ideas+Turned+Into+Code;Learning+Through+Projects" alt="Animated projects heading"/> \</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Hive-FFA000?style=flat-square" alt="Hive"/>
-  <img src="https://img.shields.io/badge/Cubit-7C3AED?style=flat-square" alt="Cubit"/>
-  <img src="https://img.shields.io/badge/AI-EC4899?style=flat-square" alt="AI"/>
-</p>
+\<table> \<tr> \<td width="34%" align="center" valign="middle">
+
+\<a href="[https://github.com/Polymath000/AcademIQ](https://github.com/Polymath000/AcademIQ)">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=9B8AFF&center=true&vCenter=true&width=300&height=90&lines=AcademIQ;Offline-first+GPA+Tracker;AI+Academic+Advisor](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&duration=2500\&pause=700\&color=9B8AFF\&center=true\&vCenter=true\&width=300\&height=90\&lines=AcademIQ;Offline-first+GPA+Tracker;AI+Academic+Advisor)" alt="Animated AcademIQ project title"/> \</a>
+
+\<br/>
+
+\<img src="[https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)" alt="Flutter"/> \<img src="[https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)" alt="Supabase"/> \<img src="[https://img.shields.io/badge/Hive-FFA000?style=flat-square](https://img.shields.io/badge/Hive-FFA000?style=flat-square)" alt="Hive"/>
+
+\</td> \<td width="66%" valign="middle">
+
+### 🎓 [AcademIQ](https://github.com/Polymath000/AcademIQ)
 
 An offline-first academic application that helps university students track their semester GPA and cumulative GPA, manage courses, and receive AI-powered academic advice.
 
@@ -119,38 +122,44 @@ An offline-first academic application that helps university students track their
 - Authentication, database access control, and feature-first Clean Architecture.
 - AI-powered academic analysis and customizable grading scales.
 
-**Key idea:** Keep academic data available offline and synchronize changes when a network connection is available.
+\</td> \</tr>
+
+\<tr> \<td width="34%" align="center" valign="middle">
+
+\<a href="[https://github.com/page-ui/Page.ui_Frontend-Part](https://github.com/page-ui/Page.ui_Frontend-Part)">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=300&height=90&lines=Page.ui;AI-powered+UI+Generation;Real-time+Previews](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&duration=2500\&pause=700\&color=38BDF8\&center=true\&vCenter=true\&width=300\&height=90\&lines=Page.ui;AI-powered+UI+Generation;Real-time+Previews)" alt="Animated Page.ui project title"/> \</a>
+
+\<br/>
+
+\<img src="[https://img.shields.io/badge/Flutter_Web-02569B?style=flat-square&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter_Web-02569B?style=flat-square\&logo=flutter\&logoColor=white)" alt="Flutter Web"/> \<img src="[https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white](https://img.shields.io/badge/GraphQL-E10098?style=flat-square\&logo=graphql\&logoColor=white)" alt="GraphQL"/> \<img src="[https://img.shields.io/badge/WebSockets-0EA5E9?style=flat-square](https://img.shields.io/badge/WebSockets-0EA5E9?style=flat-square)" alt="WebSockets"/>
+
+\</td> \<td width="66%" valign="middle">
 
 ### 🎨 [Page.ui](https://github.com/page-ui/Page.ui_Frontend-Part)
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter_Web-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Web"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/WebSockets-0EA5E9?style=flat-square" alt="WebSockets"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-</p>
 
 An AI-powered application that turns natural-language prompts into user interfaces and displays generated HTML in a live preview.
 
 **What I worked on:**
 
-- Building a responsive web application with Clean Architecture and BLoC/Cubit.
-- Using GraphQL and WebSockets to support real-time communication.
+- Building a responsive Flutter web application using Clean Architecture and BLoC/Cubit.
+- Using GraphQL and WebSockets for real-time communication.
 - Implementing JWT-based authentication and secure session handling.
-- Supporting media uploads through presigned URLs and displaying generated interfaces in an HTML preview.
+- Supporting media uploads through presigned URLs and displaying generated interfaces in an HTML iframe.
 
-**Key idea:** Connect natural-language prompts with a live interface that users can view as it is generated.
+\</td> \</tr>
+
+\<tr> \<td width="34%" align="center" valign="middle">
+
+\<a href="[https://github.com/Polymath000/PageBridge](https://github.com/Polymath000/PageBridge)">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=3FB950&center=true&vCenter=true&width=300&height=90&lines=PageBridge;Flutter+%2B+Notion;Dynamic+Database+Forms](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&duration=2500\&pause=700\&color=3FB950\&center=true\&vCenter=true\&width=300\&height=90\&lines=PageBridge;Flutter+%2B+Notion;Dynamic+Database+Forms)" alt="Animated PageBridge project title"/> \</a>
+
+\<br/>
+
+\<img src="[https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)" alt="Flutter"/> \<img src="[https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white](https://img.shields.io/badge/Notion_API-000000?style=flat-square\&logo=notion\&logoColor=white)" alt="Notion API"/> \<img src="[https://img.shields.io/badge/OAuth_2.0-238636?style=flat-square](https://img.shields.io/badge/OAuth_2.0-238636?style=flat-square)" alt="OAuth 2.0"/>
+
+\</td> \<td width="66%" valign="middle">
 
 ### 🔗 [PageBridge](https://github.com/Polymath000/PageBridge)
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion API"/>
-  <img src="https://img.shields.io/badge/OAuth_2.0-238636?style=flat-square" alt="OAuth 2.0"/>
-  <img src="https://img.shields.io/badge/BLoC%20%2F%20Cubit-7C3AED?style=flat-square" alt="BLoC and Cubit"/>
-</p>
-
-An application that makes it easier to capture ideas and save them directly to a Notion workspace.
+A Flutter application that helps users capture ideas and save them directly to their Notion workspace.
 
 **What I worked on:**
 
@@ -159,16 +168,19 @@ An application that makes it easier to capture ideas and save them directly to a
 - Creating forms dynamically from Notion database properties.
 - Supporting relations, multi-select, status, dates, rich text, and other property types.
 
-**Key idea:** Turn a complex database schema into a form that adapts to the properties of the selected Notion database.
+\</td> \</tr>
+
+\<tr> \<td width="34%" align="center" valign="middle">
+
+\<a href="[https://github.com/Polymath000/InsightMed](https://github.com/Polymath000/InsightMed)">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=F472B6&center=true&vCenter=true&width=300&height=90&lines=InsightMed;Healthcare+Workflows;AI-assisted+X-ray+Reviews](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&duration=2500\&pause=700\&color=F472B6\&center=true\&vCenter=true\&width=300\&height=90\&lines=InsightMed;Healthcare+Workflows;AI-assisted+X-ray+Reviews)" alt="Animated InsightMed project title"/> \</a>
+
+\<br/>
+
+\<img src="[https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)" alt="Flutter"/> \<img src="[https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square](https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square)" alt="REST API"/> \<img src="[https://img.shields.io/badge/Dio-7C3AED?style=flat-square](https://img.shields.io/badge/Dio-7C3AED?style=flat-square)" alt="Dio"/>
+
+\</td> \<td width="66%" valign="middle">
 
 ### 🩺 [InsightMed](https://github.com/Polymath000/InsightMed)
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Dio-7C3AED?style=flat-square" alt="Dio"/>
-  <img src="https://img.shields.io/badge/BLoC%20%2F%20Cubit-238636?style=flat-square" alt="BLoC and Cubit"/>
-</p>
 
 A healthcare application that connects patient and clinician workflows for appointments, clinical notes, and AI-assisted chest X-ray reviews.
 
@@ -177,28 +189,17 @@ A healthcare application that connects patient and clinician workflows for appoi
 - Role-based authentication, navigation, and session persistence.
 - REST API integration using Dio and structured request and response models.
 - Image uploads with patient symptoms and vital signs.
-- State management for asynchronous AI review results, including status, confidence, and summaries for clinician review.
+- State management for AI review results, including status, confidence, and summaries for clinician review.
 
-**Key idea:** Organize patient and clinician workflows while presenting AI analysis results for clinical review.
+\</td> \</tr> \</table>
 
 ---
 
 ## 🧪 Other Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| 📅 [Nazm](https://github.com/Polymath000/Nazm) | An offline-first task and calendar application with cloud synchronization. | Flutter, Hive, Firebase |
-| 📚 [MindFeed](https://github.com/Polymath000/MindFeed) | An article-reading application focused on user experience, localization, and Clean Architecture. | Flutter, BLoC, Hive |
-| 🎬 [FilmVault](https://github.com/Polymath000/FilmVault) | A movie-browsing application with adaptive themes, responsive layouts, and localization. | Flutter, BLoC |
-| 🔐 [Passwordy](https://github.com/Polymath000/Passwordy) | A password generator with customizable length and character options. | Flutter |
+\<p align="center">   \<a href="[https://github.com/Polymath000/Nazm](https://github.com/Polymath000/Nazm)">     \<img src="[https://img.shields.io/badge/Nazm-Tasks%20%26%20Calendar-D97706?style=for-the-badge](https://img.shields.io/badge/Nazm-Tasks%20%26%20Calendar-D97706?style=for-the-badge)" alt="Nazm"/>   \</a>   &nbsp;   \<a href="[https://github.com/Polymath000/MindFeed](https://github.com/Polymath000/MindFeed)">     \<img src="[https://img.shields.io/badge/MindFeed-Reading%20Experience-0EA5E9?style=for-the-badge](https://img.shields.io/badge/MindFeed-Reading%20Experience-0EA5E9?style=for-the-badge)" alt="MindFeed"/>   \</a>   \<br/>\<br/>   \<a href="[https://github.com/Polymath000/FilmVault](https://github.com/Polymath000/FilmVault)">     \<img src="[https://img.shields.io/badge/FilmVault-Movies%20%26%20Discovery-7C3AED?style=for-the-badge](https://img.shields.io/badge/FilmVault-Movies%20%26%20Discovery-7C3AED?style=for-the-badge)" alt="FilmVault"/>   \</a>   &nbsp;   \<a href="[https://github.com/Polymath000/Passwordy](https://github.com/Polymath000/Passwordy)">     \<img src="[https://img.shields.io/badge/Passwordy-Secure%20Password%20Generator-238636?style=for-the-badge](https://img.shields.io/badge/Passwordy-Secure%20Password%20Generator-238636?style=for-the-badge)" alt="Passwordy"/>   \</a> \</p>
 
-<p align="center">
-  <a href="https://github.com/Polymath000?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
-  </a>
-</p>
-
----
+\<p align="center">   \<a href="[https://github.com/Polymath000?tab=repositories](https://github.com/Polymath000?tab=repositories)">     \<img src="[https://img.shields.io/badge/Explore-All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Explore-All%20Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="Explore all repositories"/>   \</a> \</p>
 
 ## 🐧 My Development Environment
 
