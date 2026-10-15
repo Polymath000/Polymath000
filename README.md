@@ -4,9 +4,7 @@
   <a href="https://github.com/Polymath000">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Muslim+%7C+Flutter+Developer;Linux+Enthusiast+%7C+Reader;Building+mobile+apps+with+care;Learn+%E2%86%92+Build+%E2%86%92+Improve" alt="Animated introduction" />
   </a>
-  <br />
-  <img src="./assets/1.gif" alt="Coding animation" width="500" />
-  <br /><br />
+<br />
   <img src="https://img.shields.io/badge/FAITH-Muslim-238636?style=for-the-badge" alt="Faith: Muslim" />
   <img src="https://img.shields.io/badge/CRAFT-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Craft: Flutter" />
   <img src="https://img.shields.io/badge/SYSTEM-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="System: Linux" />
@@ -95,13 +93,6 @@ Build things that matter.
 </p>
 
 ### 🎓 AcademIQ
-
-<p align="center">
-  <a href="https://github.com/Polymath000/AcademIQ">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2200&pause=800&color=9B8AFF&center=true&vCenter=true&width=500&height=55&lines=AcademIQ;Offline-first+GPA+Tracker;AI+Academic+Advisor" alt="Animated AcademIQ project title" />
-  </a>
-</p>
-
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
@@ -119,13 +110,6 @@ An offline-first academic application that helps university students track their
 - AI-powered academic analysis and customizable grading scales.
 
 ### 🎨 Page.ui
-
-<p align="center">
-  <a href="https://github.com/page-ui/Page.ui_Frontend-Part">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=500&height=55&lines=Page.ui;AI-powered+UI+Generation;Real-time+Previews" alt="Animated Page.ui project title" />
-  </a>
-</p>
-
 <p>
   <img src="https://img.shields.io/badge/Flutter_Web-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Web" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
@@ -142,13 +126,6 @@ An AI-powered application that turns natural-language prompts into user interfac
 - Supporting media uploads through presigned URLs and displaying generated interfaces in an HTML iframe.
 
 ### 🔗 PageBridge
-
-<p align="center">
-  <a href="https://github.com/Polymath000/PageBridge">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2200&pause=800&color=3FB950&center=true&vCenter=true&width=500&height=55&lines=PageBridge;Flutter+%2B+Notion;Dynamic+Database+Forms" alt="Animated PageBridge project title" />
-  </a>
-</p>
-
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion API" />
@@ -165,12 +142,6 @@ A Flutter application that helps users capture ideas and save them directly to t
 - Supporting relations, multi-select, status, dates, rich text, and other property types.
 
 ### 🩺 InsightMed
-
-<p align="center">
-  <a href="https://github.com/Polymath000/InsightMed">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2200&pause=800&color=F472B6&center=true&vCenter=true&width=500&height=55&lines=InsightMed;Healthcare+Workflows;AI-assisted+X-ray+Reviews" alt="Animated InsightMed project title" />
-  </a>
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
