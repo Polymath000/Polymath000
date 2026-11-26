@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" role="img" aria-label="Core Engineering Stack">
+  <title>Core Engineering Stack</title>
+  <defs>
+    <pattern id="oatDots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1.15" fill="#D6D0C1" fill-opacity="0.55"/>
+    </pattern>
+    
+    <style>
+  .head { font-family: 'Space Grotesk', 'Segoe UI', 'Ubuntu', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .body { font-family: 'Inter', 'Segoe UI', 'Ubuntu', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .mono { font-family: 'JetBrains Mono', 'DejaVu Sans Mono', Consolas, monospace; }
+</style>
+  </defs>
+  <rect x="8.0" y="8.0" width="1186.0" height="72.0" rx="18.0" fill="#1B2A22"/>
+  <rect x="4.0" y="4.0" width="1186.0" height="72.0" rx="18.0" fill="#FEF3C7" stroke="#1B2A22" stroke-width="1.8"/>
+  <rect x="130.3" y="24.0" width="87.4" height="32.0" rx="16.0" fill="#FCE5DA" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="174.0" y="44.4" text-anchor="middle" class="body" font-size="13" font-weight="700" fill="#1B2A22">Flutter</text>
+  <path d="M 230.7 33.3 L 232.9 37.8 L 237.4 40.0 L 232.9 42.2 L 230.7 46.7 L 228.5 42.2 L 224.0 40.0 L 228.5 37.8 Z" fill="#C28A0C" stroke="#1B2A22" stroke-width="1.4" stroke-linejoin="round"/>
+  <rect x="243.7" y="24.0" width="79.2" height="32.0" rx="16.0" fill="#FFFDF9" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="283.3" y="44.4" text-anchor="middle" class="body" font-size="13" font-weight="700" fill="#1B2A22">Dart 3</text>
+  <path d="M 335.9 33.3 L 338.1 37.8 L 342.6 40.0 L 338.1 42.2 L 335.9 46.7 L 333.7 42.2 L 329.2 40.0 L 333.7 37.8 Z" fill="#C28A0C" stroke="#1B2A22" stroke-width="1.4" stroke-linejoin="round"/>
+  <rect x="348.9" y="24.0" width="112.0" height="32.0" rx="16.0" fill="#D9F0E6" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="404.9" y="44.4" text-anchor="middle" class="body" font-size="13" font-weight="700" fill="#1B2A22">Clean Arch</text>
+  <path d="M 473.9 33.3 L 476.1 37.8 L 480.6 40.0 L 476.1 42.2 L 473.9 46.7 L 471.7 42.2 L 467.2 40.0 L 471.7 37.8 Z" fill="#C28A0C" stroke="#1B2A22" stroke-width="1.4" stroke-linejoin="round"/>
+  <rect x="486.9" y="24.0" width="128.4" height="32.0" rx="16.0" fill="#FEF3C7" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="551.1" y="44.4" text-anchor="middle" class="body" font-size="13" font-weight="700" fill="#1B2A22">BLoC / Cubit</text>
+  <path d="M 628.3 33.3 L 630.5 37.8 L 635.0 40.0 L 630.5 42.2 L 628.3 46.7 L 626.1 42.2 L 621.6 40.0 L 626.1 37.8 Z" fill="#C28A0C" stroke="#1B2A22" stroke-width="1.4" stroke-linejoin="round"/>
+  <rect x="641.3" y="24.0" width="95.6" height="32.0" rx="16.0" fill="#FFFDF9" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="689.1" y="44.4" text-anchor="middle" class="body" font-size="13" font-weight="700" fill="#1B2A22">Supabase</text>
+  <path d="M 749.9 33.3 L 752.1 37.8 L 756.6 40.0 L 752.1 42.2 L 749.9 46.7 L 747.7 42.2 L 743.2 40.0 L 747.7 37.8 Z" fill="#C28A0C" stroke="#1B2A22" stroke-width="1.4" stroke-linejoin="round"/>
+  <rect x="762.9" y="24.0" width="95.6" height="32.0" rx="16.0" fill="#FCE5DA" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="810.7" y="44.4" text-anchor="middle" class="body" font-size="13" font-weight="700" fill="#1B2A22">Firebase</text>
+  <path d="M 871.5 33.3 L 873.7 37.8 L 878.2 40.0 L 873.7 42.2 L 871.5 46.7 L 869.3 42.2 L 864.8 40.0 L 869.3 37.8 Z" fill="#C28A0C" stroke="#1B2A22" stroke-width="1.4" stroke-linejoin="round"/>
+  <rect x="884.5" y="24.0" width="74.0" height="32.0" rx="16.0" fill="#E3EFFA" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="921.5" y="44.4" text-anchor="middle" class="body" font-size="13" font-weight="700" fill="#1B2A22">Linux</text>
+  <path d="M 971.5 33.3 L 973.7 37.8 L 978.2 40.0 L 973.7 42.2 L 971.5 46.7 L 969.3 42.2 L 964.8 40.0 L 969.3 37.8 Z" fill="#C28A0C" stroke="#1B2A22" stroke-width="1.4" stroke-linejoin="round"/>
+  <rect x="984.5" y="24.0" width="79.2" height="32.0" rx="16.0" fill="#FFFDF9" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="1024.1" y="44.4" text-anchor="middle" class="body" font-size="13" font-weight="700" fill="#1B2A22">Docker</text>
+</svg>

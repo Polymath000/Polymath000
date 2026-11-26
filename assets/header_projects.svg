@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="62" viewBox="0 0 1200 62" role="img" aria-label="Featured Projects">
+  <title>Featured Projects</title>
+  <defs>
+    <pattern id="oatDots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1.15" fill="#D6D0C1" fill-opacity="0.55"/>
+    </pattern>
+    
+    <style>
+  .head { font-family: 'Space Grotesk', 'Segoe UI', 'Ubuntu', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .body { font-family: 'Inter', 'Segoe UI', 'Ubuntu', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .mono { font-family: 'JetBrains Mono', 'DejaVu Sans Mono', Consolas, monospace; }
+</style>
+  </defs>
+  <rect x="8.0" y="8.0" width="1186.0" height="50.0" rx="16.0" fill="#1B2A22"/>
+  <rect x="4.0" y="4.0" width="1186.0" height="50.0" rx="16.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.8"/>
+  <rect x="26" y="25" width="200.0" height="14" rx="5" fill="#FEF3C7"/>
+  <text x="30" y="36" class="head" font-size="21" font-weight="700" fill="#1B2A22">Featured Projects</text>
+  <path d="M 246.0 20.3 L 248.6 25.4 L 253.7 28.0 L 248.6 30.6 L 246.0 35.7 L 243.4 30.6 L 238.3 28.0 L 243.4 25.4 Z" fill="#C28A0C" stroke="#1B2A22" stroke-width="1.4" stroke-linejoin="round"/>
+  <rect x="911.6" y="15.0" width="252.4" height="28.0" rx="14.0" fill="#FCE5DA" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="1037.8" y="33.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#B0441F">Click any card to open repo ↗</text>
+</svg>

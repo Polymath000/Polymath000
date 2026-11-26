@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="185" viewBox="0 0 1200 185" role="img" aria-label="Project: PageBridge">
+  <title>Project: PageBridge</title>
+  <defs>
+    <pattern id="oatDots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1.15" fill="#D6D0C1" fill-opacity="0.55"/>
+    </pattern>
+    
+    <style>
+  .head { font-family: 'Space Grotesk', 'Segoe UI', 'Ubuntu', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .body { font-family: 'Inter', 'Segoe UI', 'Ubuntu', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .mono { font-family: 'JetBrains Mono', 'DejaVu Sans Mono', Consolas, monospace; }
+</style>
+  </defs>
+  <rect x="9.0" y="9.0" width="1186.0" height="172.0" rx="20.0" fill="#1B2A22"/>
+  <rect x="4.0" y="4.0" width="1186.0" height="172.0" rx="20.0" fill="#FFFDF9" stroke="#1B2A22" stroke-width="1.8"/>
+  <rect x="16" y="20" width="6" height="140" rx="3" fill="#E06D44"/>
+  <rect x="34.0" y="24.0" width="119.6" height="28.0" rx="14.0" fill="#FCE5DA" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="93.8" y="42.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#B0441F">Productivity</text>
+  <text x="167.6" y="45" class="head" font-size="23" font-weight="700" fill="#1B2A22">PageBridge</text>
+  <rect x="1028.0" y="26.0" width="132.0" height="30.0" rx="15.0" fill="#1B2A22"/>
+  <rect x="1026.0" y="24.0" width="132.0" height="30.0" rx="15.0" fill="#FEF3C7" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="1092.0" y="43.2" text-anchor="middle" class="body" font-size="12.5" font-weight="700" fill="#1B2A22">Open Repo ↗</text>
+  <text x="34" y="82" class="body" font-size="14.5" fill="#52635A">Flutter mobile capture tool that turns quick ideas into structured Notion database pages in seconds.</text>
+  <text x="34" y="105" class="body" font-size="14.5" fill="#52635A">Engineered with Clean Architecture, GetIt DI, OAuth2 token security, paginated search, and schema-driven forms.</text>
+  <rect x="34.0" y="128.0" width="78.6" height="28.0" rx="14.0" fill="#FCE5DA" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="73.3" y="146.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">Flutter</text>
+  <rect x="122.6" y="128.0" width="102.0" height="28.0" rx="14.0" fill="#D9F0E6" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="173.6" y="146.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">Notion API</text>
+  <rect x="234.6" y="128.0" width="70.8" height="28.0" rx="14.0" fill="#FEF3C7" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="270.0" y="146.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">OAuth2</text>
+  <rect x="315.4" y="128.0" width="102.0" height="28.0" rx="14.0" fill="#E3EFFA" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="366.4" y="146.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">Clean Arch</text>
+  <rect x="427.4" y="128.0" width="68.0" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="461.4" y="146.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">GetIt</text>
+</svg>

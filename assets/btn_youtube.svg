@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="52" viewBox="0 0 190 52" role="img" aria-label="YouTube">
+  <title>YouTube</title>
+  <defs>
+    <pattern id="oatDots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1.15" fill="#D6D0C1" fill-opacity="0.55"/>
+    </pattern>
+    
+    <style>
+  .head { font-family: 'Space Grotesk', 'Segoe UI', 'Ubuntu', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .body { font-family: 'Inter', 'Segoe UI', 'Ubuntu', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .mono { font-family: 'JetBrains Mono', 'DejaVu Sans Mono', Consolas, monospace; }
+</style>
+  </defs>
+  <rect x="6.0" y="6.0" width="180.0" height="42.0" rx="21.0" fill="#1B2A22"/>
+  <rect x="3.0" y="3.0" width="180.0" height="42.0" rx="21.0" fill="#FEF3C7" stroke="#1B2A22" stroke-width="1.6"/>
+  <rect x="17" y="15" width="24" height="17" rx="5" fill="#E06D44" stroke="#1B2A22" stroke-width="1.4"/><path d="M 26 19.5 L 34 23.5 L 26 27.5 Z" fill="#FFFDF9"/>
+  <text x="108" y="29" text-anchor="middle" class="body" font-size="13.5" font-weight="700" fill="#1B2A22">YouTube ↗</text>
+</svg>

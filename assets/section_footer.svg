@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Footer — Abdelrahman Khaled">
+  <title>Footer — Abdelrahman Khaled</title>
+  <defs>
+    <pattern id="oatDots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1.15" fill="#D6D0C1" fill-opacity="0.55"/>
+    </pattern>
+    
+    <style>
+  .head { font-family: 'Space Grotesk', 'Segoe UI', 'Ubuntu', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .body { font-family: 'Inter', 'Segoe UI', 'Ubuntu', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .mono { font-family: 'JetBrains Mono', 'DejaVu Sans Mono', Consolas, monospace; }
+</style>
+  </defs>
+  <rect x="8.0" y="8.0" width="1186.0" height="84.0" rx="20.0" fill="#1B2A22"/>
+  <rect x="4.0" y="4.0" width="1186.0" height="84.0" rx="20.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.8"/>
+  <rect x="4.0" y="4.0" width="1186.0" height="84.0" rx="20.0" fill="url(#oatDots)" pointer-events="none"/>
+  <text x="34" y="44" class="head" font-size="18" font-weight="700" fill="#1B2A22">Abdelrahman Khaled <tspan class="mono" font-size="13" fill="#1F6F54">· @Polymath000</tspan></text>
+  <text x="34" y="66" class="body" font-size="13.5" fill="#52635A">Playful apps, serious architecture. Craft on top, Clean Architecture underneath.</text>
+  <path d="M 1148.0 26.4 L 1151.2 32.8 L 1157.6 36.0 L 1151.2 39.2 L 1148.0 45.6 L 1144.8 39.2 L 1138.4 36.0 L 1144.8 32.8 Z" fill="#C28A0C" stroke="#1B2A22" stroke-width="1.4" stroke-linejoin="round"/>
+  <path d="M 1120.0 51.8 L 1122.1 55.9 L 1126.2 58.0 L 1122.1 60.1 L 1120.0 64.2 L 1117.9 60.1 L 1113.8 58.0 L 1117.9 55.9 Z" fill="#C28A0C" stroke="#1B2A22" stroke-width="1.4" stroke-linejoin="round"/>
+</svg>

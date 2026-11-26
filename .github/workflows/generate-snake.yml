@@ -1,0 +1,46 @@
+name: Generate Botanical Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate raw contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Polymath000
+          outputs: |
+            dist/github-contribution-grid-snake-raw.svg?palette=github-light&color_snake=#E06D44&color_dots=#ECE8DD,#D9F0E6,#74B89B,#1F6F54,#1B2A22
+
+      - name: Restyle snake into Botanical Oat card
+        run: python3 scripts/wrap_snake_card.py dist/github-contribution-grid-snake-raw.svg dist/contribution_snake.svg
+
+      - name: Publish snake SVG to output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          tmp_dir="$(mktemp -d)"
+          cp dist/contribution_snake.svg "$tmp_dir/contribution_snake.svg"
+          cd "$tmp_dir"
+          git init -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add contribution_snake.svg
+          git commit -m "chore: update Botanical Oat contribution snake"
+          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" HEAD:refs/heads/output

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="292" viewBox="0 0 1200 292" role="img" aria-label="Languages and Tools">
+  <title>Languages and Tools</title>
+  <defs>
+    <pattern id="oatDots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1.15" fill="#D6D0C1" fill-opacity="0.55"/>
+    </pattern>
+    
+    <style>
+  .head { font-family: 'Space Grotesk', 'Segoe UI', 'Ubuntu', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .body { font-family: 'Inter', 'Segoe UI', 'Ubuntu', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .mono { font-family: 'JetBrains Mono', 'DejaVu Sans Mono', Consolas, monospace; }
+</style>
+  </defs>
+  <rect x="9.0" y="9.0" width="1186.0" height="279.0" rx="22.0" fill="#1B2A22"/>
+  <rect x="4.0" y="4.0" width="1186.0" height="279.0" rx="22.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.8"/>
+  <rect x="4.0" y="4.0" width="1186.0" height="279.0" rx="22.0" fill="url(#oatDots)" pointer-events="none"/>
+  <rect x="30" y="38" width="224" height="14" rx="5" fill="#FEF3C7"/>
+  <text x="34" y="48" class="head" font-size="24" font-weight="700" fill="#1B2A22">Languages &amp; Tools</text>
+  <path d="M 268.0 31.3 L 270.6 36.4 L 275.7 39.0 L 270.6 41.6 L 268.0 46.7 L 265.4 41.6 L 260.3 39.0 L 265.4 36.4 Z" fill="#C28A0C" stroke="#1B2A22" stroke-width="1.4" stroke-linejoin="round"/>
+  <text x="1156" y="47" text-anchor="end" class="mono" font-size="12" font-weight="600" fill="#52635A">Uniform cut-paper toolkit</text>
+  <rect x="38.0" y="76.0" width="362.0" height="186.0" rx="18.0" fill="#1B2A22"/>
+  <rect x="34.0" y="72.0" width="362.0" height="186.0" rx="18.0" fill="#FFFDF9" stroke="#1B2A22" stroke-width="1.6"/>
+  <rect x="52.0" y="88.0" width="150.8" height="28.0" rx="14.0" fill="#D9F0E6" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="127.4" y="106.2" text-anchor="middle" class="body" font-size="12.5" font-weight="700" fill="#1F6F54">Mobile &amp; Backend</text>
+  <rect x="52.0" y="132.0" width="76.6" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="90.3" y="150.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">Flutter</text>
+  <rect x="136.6" y="132.0" width="58.0" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="165.6" y="150.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">Dart</text>
+  <rect x="202.6" y="132.0" width="84.4" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="244.8" y="150.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">Firebase</text>
+  <rect x="52.0" y="170.0" width="84.4" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="94.2" y="188.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">Supabase</text>
+  <rect x="144.4" y="170.0" width="61.0" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="174.9" y="188.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">MySQL</text>
+  <rect x="213.4" y="170.0" width="76.6" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="251.7" y="188.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">GraphQL</text>
+  <rect x="52.0" y="208.0" width="84.4" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="94.2" y="226.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">REST API</text>
+  <rect x="420.0" y="76.0" width="362.0" height="186.0" rx="18.0" fill="#1B2A22"/>
+  <rect x="416.0" y="72.0" width="362.0" height="186.0" rx="18.0" fill="#FFFDF9" stroke="#1B2A22" stroke-width="1.6"/>
+  <rect x="434.0" y="88.0" width="142.0" height="28.0" rx="14.0" fill="#FCE5DA" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="505.0" y="106.2" text-anchor="middle" class="body" font-size="12.5" font-weight="700" fill="#B0441F">Languages</text>
+  <rect x="434.0" y="132.0" width="58.0" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="463.0" y="150.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">C++</text>
+  <rect x="500.0" y="132.0" width="68.8" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="534.4" y="150.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">Python</text>
+  <rect x="576.8" y="132.0" width="100.0" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="626.8" y="150.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">JavaScript</text>
+  <rect x="684.8" y="132.0" width="58.0" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="713.8" y="150.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">Bash</text>
+  <rect x="434.0" y="170.0" width="58.0" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="463.0" y="188.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">HTML</text>
+  <rect x="500.0" y="170.0" width="58.0" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="529.0" y="188.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">CSS</text>
+  <rect x="802.0" y="76.0" width="362.0" height="186.0" rx="18.0" fill="#1B2A22"/>
+  <rect x="798.0" y="72.0" width="362.0" height="186.0" rx="18.0" fill="#FFFDF9" stroke="#1B2A22" stroke-width="1.6"/>
+  <rect x="816.0" y="88.0" width="174.2" height="28.0" rx="14.0" fill="#FEF3C7" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="903.1" y="106.2" text-anchor="middle" class="body" font-size="12.5" font-weight="700" fill="#1B2A22">Tools &amp; Environment</text>
+  <rect x="816.0" y="132.0" width="61.0" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="846.5" y="150.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">Linux</text>
+  <rect x="885.0" y="132.0" width="58.0" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="914.0" y="150.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">Git</text>
+  <rect x="951.0" y="132.0" width="68.8" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="985.4" y="150.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">Docker</text>
+  <rect x="1027.8" y="132.0" width="58.0" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="1056.8" y="150.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">Qt</text>
+  <rect x="816.0" y="170.0" width="61.0" height="28.0" rx="14.0" fill="#F6F4EE" stroke="#1B2A22" stroke-width="1.4"/>
+  <text x="846.5" y="188.1" text-anchor="middle" class="body" font-size="12" font-weight="700" fill="#1B2A22">Figma</text>
+</svg>
