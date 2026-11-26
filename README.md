@@ -61,7 +61,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Polymath000/Polymath000/output/contribution_snake.svg" alt="Abdelrahman Khaled — Contribution Activity Snake Animation" width="100%" />
+  <img src="./assets/contribution_snake.svg" alt="Abdelrahman Khaled — Contribution Activity Snake Animation" width="100%" />
 </div>
 
 <br>
